@@ -1,4 +1,4 @@
-name: golang-pipeline
+name: Go Build & Deploy – ${{ github.ref_name }}
 
 on:
   push:
